@@ -1,0 +1,22 @@
+theme: PaperMod
+baseURL: https://example.org/
+languageCode: en-us
+title: LabVeilTech
+
+params:
+    defaultTheme: auto
+    homeInfoParams:
+        Title: "LabVeilTech"
+        Content: "Welcome to LabVeilTech, a blog about technology, programming, and other things."
+    ShowBreadCrumbs: true
+
+menu:
+    main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 20
