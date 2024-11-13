@@ -33,7 +33,7 @@ menu:
 markup:
     goldmark:
         renderer:
-            unsafe: false
+            unsafe: true
         extensions:
             definitionList: true
             footnote: true

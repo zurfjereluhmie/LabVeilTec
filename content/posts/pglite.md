@@ -34,8 +34,8 @@ For a quick test, check out the [pglite.dev playground](https://pglite.dev/repl/
 
 If you’re looking for a flexible, easy-to-use solution for local data handling in your projects, PGlite is definitely worth exploring!
 
-## Sources
+## Ressources
 
--   [Base article](https://buttondown.com/entbit/archive/pglite-run-postgres-everywhere/)
+-   [PGlite - run Postgres everywhere](https://buttondown.com/entbit/archive/pglite-run-postgres-everywhere/)
 -   [PGlite.dev](https://pglite.dev/)
 -   [PGlite GitHub Repository](https://github.com/electric-sql/pglite)
