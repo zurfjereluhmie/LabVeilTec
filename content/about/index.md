@@ -1,6 +1,7 @@
 ---
 title: About
 ShowToc: true
+TocOpen: true
 weight: 10
 ---
 
@@ -8,7 +9,7 @@ weight: 10
 
 At the core of my work lies my ikigai — a Japanese concept meaning "a reason for being." My passion is creating and building things from scratch, watching my code come alive in interactive, functional applications. I’m skilled in both front-end and back-end technologies, which allows me to contribute meaningfully to projects that make a real difference in people’s lives. In a world that increasingly needs robust, secure, and user-friendly applications, I find fulfillment in creating digital solutions that solve real-world problems and improve the user experience.
 
-![Ikigai](ikigai.svg#center)
+![Ikigai](ikigai-2.svg#center)
 
 ## Field of Expertise
 
