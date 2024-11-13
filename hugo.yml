@@ -9,6 +9,11 @@ params:
         Title: "LabVeilTech"
         Content: "Welcome to LabVeilTech, a blog about technology, programming, and other things."
     ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowRssButtonInSectionTermList: true
+
+taxonomies:
+    tag: tags
 
 menu:
     main:
@@ -16,7 +21,23 @@ menu:
           name: Posts
           url: /posts/
           weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 15
         - identifier: about
           name: About
           url: /about/
           weight: 20
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: false
+        extensions:
+            definitionList: true
+            footnote: true
+            linkify: true
+            strikethrough: true
+            table: true
+            taskList: true
