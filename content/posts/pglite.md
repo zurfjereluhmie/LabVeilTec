@@ -26,13 +26,10 @@ As full-stack developers, we often find ourselves juggling databases across diff
 
 **Local Data Caching**: For data-heavy applications, PGlite can act as a local cache, reducing the need for frequent remote API calls and minimizing latency.
 
-### Getting Started
+### When will I need this
 
-Using PGlite is as simple as installing the `@electric-sql/pglite` package, and you’re ready to execute SQL commands right in your JavaScript runtime. Need live updates? You can even subscribe to "live queries" for real-time data monitoring.
-
-For a quick test, check out the [pglite.dev playground](https://pglite.dev/repl/), which lets you play with a PGlite database right in your browser.
-
-If you’re looking for a flexible, easy-to-use solution for local data handling in your projects, PGlite is definitely worth exploring!
+This module will be useful to me in situations where I need quick, reliable data handling without the overhead of a remote database.
+**But**, as this is only in the innovative stage, I will keep an eye on it and test it when it is more mature.
 
 ## Ressources
 
