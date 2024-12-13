@@ -1,15 +1,16 @@
 ---
 date: 2024-11-14
-draft: true
+draft: false
 params:
     author: Jérémie
 title: Simple approach to contract testing
+cover:
+    image: https://blog.appsignal.com/_next/image?url=%2Fimages%2Fblog%2F2024-11%2Fstreamlining-contract-testing.jpg&w=1920&q=50
 tags:
     - Testing
-    - Contract Testing
-    - API
-    - Jest
-    - NodeJS
+    - Web development
+    - Back-end
+    - Robustness
 weight: 10
 ---
 

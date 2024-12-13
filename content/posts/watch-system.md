@@ -6,10 +6,7 @@ params:
 title: My Watch System
 tags:
     - Web Development
-    - Feedly
-    - Daily.dev
-    - MyMind
-    - AI
+    - Watch System
 weight: 10
 ---
 

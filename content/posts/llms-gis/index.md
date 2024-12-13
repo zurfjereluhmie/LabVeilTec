@@ -5,10 +5,10 @@ params:
     author: Jérémie
 title: LLMs In GIS
 tags:
+    - Web development
+    - Full-stack
     - GIS
     - LLMs
-    - Machine Learning
-    - AI
 weight: 10
 ---
 

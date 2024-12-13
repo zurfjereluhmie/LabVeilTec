@@ -4,9 +4,13 @@ draft: false
 params:
     author: Jérémie
 title: Run Postgres everywhere
+cover:
+    image: https://pglite.dev/img/brand/og-image.png
 tags:
     - Postgres
     - Database
+    - Full-stack
+    - Scalability
 weight: 10
 ---
 

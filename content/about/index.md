@@ -15,7 +15,7 @@ At the core of my work lies my ikigai — a Japanese concept meaning "a reason f
 
 I specialize in full-stack web application development. This field combines front-end and back-end technologies to create high-performance, interactive applications. My work spans various areas, from front-end design with HTML, CSS, and JavaScript to back-end development with Node.js, PHP, and database integration. Additionally, I focus on web application security, UI/UX design, DevOps practices, and API development — all aimed at building scalable, robust applications.
 
-Keywords: Web development, full-stack, front-end, back-end, interactive applications, security, user experience, robustness, problem-solving, scalability.
+Taxonomies: [web development](../tags/web-development), [full-stack](../tags/full-stack), [front-end](../tags/front-end), [back-end](../tags/back-end), [interactive applications](../tags/interactive-applications), security, user experience, [robustness](../tags/robustness), problem-solving, [scalability](../tags/scalability).
 
 ## A Little About Me
 
