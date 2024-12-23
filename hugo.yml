@@ -7,7 +7,7 @@ params:
     defaultTheme: auto
     homeInfoParams:
         Title: "LabVeilTech"
-        Content: "Welcome to LabVeilTech, a blog about technology, programming, and other things."
+        Content: "Laboratory of technology watch at HEIG-VD part of the COMEM+ Bachelor"
     ShowBreadCrumbs: true
     ShowReadingTime: true
     ShowRssButtonInSectionTermList: true

@@ -5,7 +5,7 @@ params:
     author: Jérémie
 title: Run Postgres everywhere
 cover:
-    image: https://pglite.dev/img/brand/og-image.png
+    image: https://raw.githubusercontent.com/electric-sql/pglite/main/docs/public/img/brand/logo.svg
 tags:
     - Postgres
     - Database
@@ -22,7 +22,7 @@ weight: 10
 
 As full-stack developers, we often find ourselves juggling databases across different environments and use cases, especially when building offline-friendly, data-intensive apps. Enter PGlite—a WASM-based, in-browser Postgres database that runs in environments like NodeJS, Deno, BUN, and even directly in the browser. PGlite offers the flexibility to run a local Postgres instance right where the user is, and it includes powerful extensions like PostGIS and pgvector for spatial and vector-based data.
 
-### Why Use PGlite ?
+### Why use PGlite ?
 
 **Local First Apps**: PGlite is perfect for "Local First" applications, providing near-instant data access and syncing with remote databases in the background. This makes it ideal for apps that require offline support or fast response times.
 
